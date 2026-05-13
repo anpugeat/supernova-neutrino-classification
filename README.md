@@ -24,7 +24,7 @@ Two custom noise models were built on top of the clean signals:
 | Task | Model | Result |
 |---|---|---|
 | Clean vs. empty classification | AlexNet-style CNN | 1.0 accuracy (all noise levels) |
-| Noisy classification (up to 13σ noise) | Custom Mini-ResNet-18 | 98% accuracy (0-4$\sigma$ noise levels) |
+| Noisy classification (up to 13σ noise) | Custom Mini-ResNet-18 | 98% accuracy (0-4$$\sigma$$ noise levels) |
 | Neutrino / electron energy regression | Tuned residual CNN | 8.0% MAE |
 | Signal denoising | Residual U-Net | Recovered sparse tracks via noise-prediction (log-compressed inputs, residual learning) |
 
