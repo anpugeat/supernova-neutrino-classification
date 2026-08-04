@@ -81,7 +81,3 @@ pip install -r requirements.txt
 # Launch the notebook
 jupyter notebook supernova_neutrino_detection.ipynb
 ```
-
-## Author
-
-**[Your Name]** — [LinkedIn](#) · [Email](#) · [Portfolio](#)
